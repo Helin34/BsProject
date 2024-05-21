@@ -2,6 +2,6 @@
 
 <h2>Html, Css ve Bootstrap kullanılarak Responsive proje geliştirilmiştir.</h2>
 
-<h2>Ekran Gifi</h2>
+<h2>Ekran Görüntüsü</h2>
 
 ![](BtProject.gif)
